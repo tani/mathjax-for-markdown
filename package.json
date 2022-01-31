@@ -9,10 +9,7 @@
 		"vscode": "^1.63.0"
 	},
 	"categories": [
-		"Markdown",
-		"Math",
-		"Mathematics",
-		"LaTeX"
+		"Other"
 	],
 	"activationEvents": [],
 	"main": "./dist/extension.js",
