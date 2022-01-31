@@ -1,4 +1,5 @@
 # MathJax for Markdown
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/taniguchi.mathjax-for-markdown)
 
 This is a plugin for the Markdown viewer of VSCode.
 This plugin enables the LaTeX notation in Markdown such as `$x^2+y^2=z^2$`.
