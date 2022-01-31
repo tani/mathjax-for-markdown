@@ -1,5 +1,6 @@
 {
 	"name": "mathjax-for-markdown",
+	"publisher": "taniguchi",
 	"displayName": "MathJax for Markdown",
 	"description": "Use LaTeX notation in Markdown",
 	"version": "0.0.1",
